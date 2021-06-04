@@ -10,3 +10,5 @@ Generic template to bootstrap your TF/Keras project. Click on and avoid writing 
 https://github.com/nialloh23/ml-project-template/generate
 
 [create issue](https://github.com/user/repository/issues/new)
+
+<a href="#" class="button">Post comment (link)</a>
