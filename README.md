@@ -1,5 +1,5 @@
 # ML Project Template
-Generic template to bootstrap your TF/Keras project. Click on [copy template](https://github.com/nialloh23/ml-project-template/generate) and avoid writing boilerplate code for:
+Generic template to bootstrap your TF/Keras project. Click on [use this template](https://github.com/nialloh23/ml-project-template/generate) and avoid writing boilerplate code for:
 
 - **TF/Keras**
 - **Hydra**, a framework for elegantly configuring complex applications.
